@@ -8,6 +8,11 @@ Síðan hevur níggju undirvísingaruppskot, plantulistar úr sBókini,
 leiting og prentklár uppgávubløð. Undirvísingaruppskotini eru nýskrivað
 við støði í bókini.
 
+Sniðið er lagt sum ein nútímans lærusíða: føst leiðarlinja ovast við
+virknum parti, yvirlit yvir uppgávubløðini, framgongd pr. deild
+(„Merk sum gjørt“ verður goymt í kagaranum) og eitt rólig kortsnið,
+sum virkar á telefon, teldu og í prenti.
+
 ## GitHub Pages
 
 Set **Settings → Pages → Deploy from a branch → main → / (root)**.
